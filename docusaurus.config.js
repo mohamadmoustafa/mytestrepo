@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://mohamadmoustafa.github.io/mytestrepo/',
+  url: 'https://mohamadmoustafa.github.io',
   baseUrl: '/mytestrepo/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
