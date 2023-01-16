@@ -3,7 +3,6 @@
   "gitignoreRoot": ".",
   "useGitignore": true,
   "language": "en",
-  "import": ["@cspell/dict-en/cspell-ext.json"],
   "dictionaries": [
     "css",
     "html",
