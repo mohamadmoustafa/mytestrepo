@@ -1,0 +1,24 @@
+{
+  "version": "0.2",
+  "gitignoreRoot": ".",
+  "useGitignore": true,
+  "language": "en",
+  "import": ["@cspell/dict-en/cspell-ext.json"],
+  "dictionaries": [
+    "css",
+    "html",
+    "fonts",
+    "typescript",
+    "softwareTerms",
+    "companies",
+    "lorem-ipsum",
+    "project-words"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "project-words",
+      "path": "./project-words.txt",
+      "noSuggest": true
+    }
+  ]
+}
