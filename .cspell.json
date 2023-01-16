@@ -2,7 +2,7 @@
   "version": "0.2",
   "gitignoreRoot": ".",
   "useGitignore": true,
-  "language": "en",
+  "language": "en-US",
   "import": ["@cspell/dict-en_us/cspell-ext.json"],
   "dictionaries": [
     "css",
